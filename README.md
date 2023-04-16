@@ -1,6 +1,6 @@
-### Olá, eu sou o Luís Alberto! 😀😁
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=50&fontAlign=80&color=gradient&fontColor=FFFFFF&fontAlignY=20)
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=94EBB6&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lu%C3%ADs+Alberto!;Hello%2C+I'm+Lu%C3%ADs+Alberto!)](https://git.io/typing-svg)
 
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://ramosdeluis.pythonanywhere.com/)
 [![LetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ramosdeluis/)
@@ -12,3 +12,9 @@
 ### Tecnologias que mais utilizo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramosdeluis&layout=compact&theme=cobalt)](https://github.com/ramosdeluis/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ramosdeluis&bg_color=203447&color=94ebb6&line=bb7abe&point=94ebb6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ramosdeluis&theme=gruvbox)](https://github.com/ramosdeluis/github-profile-trophy)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=50&fontAlign=20&color=gradient&fontColor=FFFFFF&fontAlignY=80&section=footer)
