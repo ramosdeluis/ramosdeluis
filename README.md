@@ -16,4 +16,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ramosdeluis&bg_color=203447&color=94ebb6&line=bb7abe&point=94ebb6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=50&fontAlign=20&color=gradient&fontColor=FFFFFF&fontAlignY=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=50&fontAlign=80&color=gradient&fontColor=FFFFFF&fontAlignY=20&section=footer)
